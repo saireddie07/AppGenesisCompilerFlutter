@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "139848074964",
+    "project_id": "appgenesiscomplierapplication",
+    "storage_bucket": "appgenesiscomplierapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139848074964:android:6d6d246d56793a26971d41",
+        "android_client_info": {
+          "package_name": "com.example.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139848074964-4npr6iq7sivi328bgqsr00jh65en2hom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9z5IXn4PhCLmRYnG8Bg4DJQ5Q26ldSo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139848074964-4npr6iq7sivi328bgqsr00jh65en2hom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139848074964-6ukupnc3n98gs92idapoujcjcpi1q4bg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
